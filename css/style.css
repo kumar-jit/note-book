@@ -1,0 +1,68 @@
+html,body,div{
+    padding: 0;
+    margin: 0;
+    height: 100v;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.log-panel-body{
+    margin-top: 15%;
+    height: 55%;
+    padding: 0%;
+    border: 2px solid blueviolet;
+    box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.377);
+}
+.left-log{
+    padding: 0;
+    margin: 0;
+    background-color: blueviolet;
+    height: 100%;
+}
+.right-log{
+    
+}
+.noteic{
+    margin-top:80px;
+    text-align: center;
+}
+.sing-panel-body{
+    margin-top: 10%;
+    height: 80%;
+    padding: 0%;
+    border: 2px solid blueviolet;
+    box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.377);
+}
+.left-sig{
+    padding: 0;
+    margin: 0;
+    background-color: blueviolet;
+    height: 100%;
+}
+.reminder-add{
+    margin: 30 30 10 30;
+    border-right:1px solid black;
+    
+}
+.remin-input{
+    background-color: ;
+}
+.reminder-lebel{
+    font-size: 20px;
+    color: black;
+    padding-right: 10px;
+}
+.form-group{
+    
+    margin: 15px;
+}
+.addnote{
+    position: fixed;
+    z-index: 1;
+    top: 80vh;
+    left: 50%;
+}
+.panel-primary{
+    border-color: blueviolet;
+}
+.custom-color{
+    background-color: blueviolet;
+}
