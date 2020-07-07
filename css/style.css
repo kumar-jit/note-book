@@ -43,7 +43,7 @@ html,body,div{
     
 }
 .remin-input{
-    background-color: ;
+ 
 }
 .reminder-lebel{
     font-size: 20px;
@@ -65,4 +65,26 @@ html,body,div{
 }
 .custom-color{
     background-color: blueviolet;
+}
+.colour-palate{
+    border-radius: 50%;
+    border: none;
+    box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.7);
+    width: 40px;
+    height: 40px;
+    margin-left:20px;
+    cursor: pointer;
+}
+.note-btn{
+    border: none;
+    box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.5);
+    background-color: blueviolet;
+    color: white;
+    padding: 10px 20px;
+    margin:0 20px 0px 20;
+    height: 40px;
+    cursor: pointer;
+}
+.textarea{
+    color: black;
 }
